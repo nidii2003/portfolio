@@ -31,7 +31,7 @@ return(
               </h1>
               <p className="leading-relaxed">
                This is the project which
-                I'have created for those who owns these buisnes.
+                I have created for those who owns these buisnes.
               </p>
               <Link   target="_blank"href={"https://hackathon1-rosy.vercel.app/"}>
               <p className="leading-relaxed text-purple-500 hover:underline">
