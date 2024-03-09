@@ -24,7 +24,7 @@ const About=()=>{
              or front end devaloper for 1 year, who creates professional responsive websites which improves the lives of people around me.
         </p>
         <p className="mb-5 leading-relaxed">
-         As I'am really passionate about my work and in the field of IT i found fund as well
+         As I am really passionate about my work and in the field of IT i found fund as well
          as it has great demand in market.
         </p>
         <div className="flex w-full md:justify-start justify-center items-end">
